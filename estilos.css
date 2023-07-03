@@ -1,0 +1,14 @@
+ .comtact-form {
+    font-size: 50px;
+    
+ }
+ .contact-form_h2 {
+    font-size: 1em;
+    font-family: cursive;
+    color: azure;
+    background-color: black;
+    display: inline-block;
+    margin: 20px 10px;
+    border-radius: 3em;
+}
+
